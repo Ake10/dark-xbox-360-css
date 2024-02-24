@@ -1,17 +1,17 @@
 /*BEGIN Xbox 360 Controller Styling*/
 .controller.custom {
-    background: url(https://github.com/Ake10/dark-xbox-360-css/blob/main/bg.png?raw=true);
+    background: url(https://github.com/Ake10/dark-xbox-360-css/blob/main/bg.png);
 }
 
 .custom .trigger {
-    background: url(https://github.com/Ake10/dark-xbox-360-css/blob/main/trigger.png?raw=true);
+    background: url(https://github.com/Ake10/dark-xbox-360-css/blob/main/trigger.png);
 }
 
 .custom .bumper {
-    background: url(https://github.com/Ake10/dark-xbox-360-css/blob/main/bumper.png?raw=true);
+    background: url(https://github.com/Ake10/dark-xbox-360-css/blob/main/bumper.png);
 }
 
 .xbox-old .stick {
-    background: url(https://github.com/Ake10/dark-xbox-360-css/blob/main/stick.png?raw=true);
+    background: url(https://github.com/Ake10/dark-xbox-360-css/blob/main/stick.png);
 }
 /*END Xbox 360 Controller Styling*/
