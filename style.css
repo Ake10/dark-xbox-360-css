@@ -1,0 +1,17 @@
+/*BEGIN Xbox 360 Controller Styling*/
+.controller.custom {
+    background: url(bg.png);
+}
+
+.custom .trigger {
+    background: url(trigger.png);
+}
+
+.custom .bumper {
+    background: url(bumper.png);
+}
+
+.xbox-old .stick {
+    background: url(stick.png);
+}
+/*END Xbox 360 Controller Styling*/
